@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITesting", "APITesting\APITesting.csproj", "{5E0EC355-66A6-4169-831A-24ECD92B69BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0EC355-66A6-4169-831A-24ECD92B69BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0EC355-66A6-4169-831A-24ECD92B69BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0EC355-66A6-4169-831A-24ECD92B69BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0EC355-66A6-4169-831A-24ECD92B69BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
